@@ -5,7 +5,7 @@
          height="45"
          width="45" />, I'm Parth Desai 👨🏻‍💻 </h1>
 <h5 align="center">
-Currently, a final year student persuing BTech Computer Engineering at Charusat University, Gujarat. I am a software developer and a data science enthusiast, I love coding. 
+Currently, a final year student persuing BTech Computer Engineering at Charusat University, Gujarat, India. I am a software developer and a data science enthusiast, I love coding. 
 </h5>
 
 ### Tech Stack 🛠 
