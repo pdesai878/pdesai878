@@ -4,9 +4,9 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Parth Desai 👨🏻‍💻 </h1>
-<h5 align="center">
+<h3 align="center">
 Currently, a final year student persuing BTech Computer Engineering at Charusat University, Gujarat, India. I am a software developer and a data science enthusiast, I love coding. 
-</h5>
+</h3>
 
 
 ### Tech Stack 🛠 
@@ -35,7 +35,7 @@ Currently, a final year student persuing BTech Computer Engineering at Charusat 
 
 <h3 align="center">Connect with me:
 <br><br>
-<a href="https://www.linkedin.com/in/parth-desai-424419181/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/parth-desai-424419181/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63565627/133207437-53fc1a5e-ed53-4194-a67d-129f4ee40239.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:parthmanishdesai@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63565627/133155053-0d62a669-e034-482e-a091-4afece2f3a6b.png" alt="wth_ishiii" height="50" width="50" /></a>
 </h3>
 
