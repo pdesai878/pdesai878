@@ -8,6 +8,10 @@
 Currently, a final year student persuing BTech Computer Engineering at Charusat University, Gujarat, India. I am a software developer and a data science enthusiast, I love coding. 
 </h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pdesai878&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="center"><img align="" alt= "stats card" height="200px" width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=pdesai878&theme=radical">
+
+
 
 ### Tech Stack 🛠 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -33,11 +37,11 @@ Currently, a final year student persuing BTech Computer Engineering at Charusat 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 
-<h3 align="center">Connect with me:
-<br><br>
+<h3 align="right">Connect with me:
 <a href="https://www.linkedin.com/in/parth-desai-424419181/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63565627/133207437-53fc1a5e-ed53-4194-a67d-129f4ee40239.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:parthmanishdesai@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63565627/133155053-0d62a669-e034-482e-a091-4afece2f3a6b.png" alt="wth_ishiii" height="50" width="50" /></a>
 </h3>
+
 
 
 
