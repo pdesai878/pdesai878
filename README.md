@@ -37,10 +37,21 @@ Currently, a final year student persuing BTech Computer Engineering at Charusat 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 
 <br>
-<h3 align="right">Connect with me:
-<a href="https://www.linkedin.com/in/parth-desai-424419181/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63565627/133207437-53fc1a5e-ed53-4194-a67d-129f4ee40239.png" alt="" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:parthmanishdesai@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63565627/133155053-0d62a669-e034-482e-a091-4afece2f3a6b.png" alt="wth_ishiii" height="50" width="50" /></a>
-</h3>
+<!-- <h3 align="right">Connect with me: -->
+<a href="https://www.linkedin.com/in/parth-desai-424419181/">
+  <img align="right" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+
+<a href="mailto:parthmanishdesai@gmail.com">
+  <img align="right" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+         
+<a href="https://twitter.com/">
+  <img align="right" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+         
+
+
 
 
 
